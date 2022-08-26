@@ -8,3 +8,13 @@ Página réplica do Twitter (versão 2020) desenvolvida na aula de contéudo bô
 ## Demostração
 
 ## Instalação
+Clone o repositório.
+~~~
+git clone https://github.com/vian4dev/flexbox-twitter.git
+~~~
+Acesse o diretório do projeto.
+~~~
+cd flexbox-twitter
+~~~
+Abra a aplicação é execute o _index.html_.
+
