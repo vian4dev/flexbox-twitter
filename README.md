@@ -3,7 +3,7 @@
 ## ✒️ Descrição
 Página réplica do Twitter (versão 2020) desenvolvida na aula de contéudo bônus da _Trilha Ignite_ da Rocketseat, o intuito do desenvolvimento dessa página e colocar em prática os conhecimentos de Flexbox do CSS.
 
-## 💻 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 <div style="display: inline_block"><br>
   <img align="center" alt="img-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="img-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
