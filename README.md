@@ -24,5 +24,5 @@ Acesse o diretório do projeto.
 ~~~
 cd flexbox-twitter
 ~~~
-Abra a aplicação é execute o _index.html_ no seu navegador.
+Execute o _index.html_ no seu navegador.
 
