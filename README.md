@@ -26,6 +26,7 @@ cd flexbox-twitter
 ~~~
 Execute o _index.html_ no seu navegador.
 
+---
 <div align="center"> 
  <p>🤖 Desenvolvido por - <a href="https://github.com/vian4dev">Gabriel Viana</a></p>
  
