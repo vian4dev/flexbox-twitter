@@ -1,4 +1,8 @@
-# Flexbox Twitter
+<div align="center">
+  <img src="https://www.rocketseat.com.br/assets/logos/ignite-reduced.svg" width="150" height="150" alt="Ignite">
+</div>
+
+# Twitter Rocketseat
 
 ## ✒️ Descrição
 Página réplica do Twitter (versão 2020) desenvolvida na aula de contéudo bônus da _Trilha Ignite_ da Rocketseat, o intuito do desenvolvimento dessa página e colocar em prática os conhecimentos de Flexbox do CSS.
