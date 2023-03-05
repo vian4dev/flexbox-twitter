@@ -45,7 +45,7 @@ git clone https://github.com/vian4dev/flexbox-twitter.git
 ~~~
 Acesse o diretório do projeto.
 ~~~
-cd flexbox-twitter
+cd flexbox-twitter/
 ~~~
 Execute o _index.html_ no seu navegador.
 
