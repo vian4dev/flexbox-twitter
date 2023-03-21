@@ -35,7 +35,7 @@ Página réplica do Twitter (versão 2020) desenvolvida na aula de contéudo bô
 ## 📷 Demostração
 Apresentação da tela do aplicativo.
 <div align="center">
-  <img src="https://i.ibb.co/yg19p4q/flexbox-twitter.png" alt="flexbox-twitter" border="0">
+  <img src="./.github/flexbox-twitter.png" alt="flexbox-twitter" border="0">
 </div>
 
 ## 🔥 Instalação
