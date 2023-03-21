@@ -38,7 +38,7 @@ Apresentação da tela do aplicativo.
   <img src="https://i.ibb.co/yg19p4q/flexbox-twitter.png" alt="flexbox-twitter" border="0">
 </div>
 
-## ⚙️ Instalação
+## 🔥 Instalação
 Clone o repositório.
 ~~~
 git clone https://github.com/vian4dev/flexbox-twitter.git
